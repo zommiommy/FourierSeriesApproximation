@@ -11,10 +11,10 @@ from scipy import linalg
 
 this function will get the coefficent $a_n$ and $b_n$ to approximate a function in the form 
 
-$$f(t) = \frac{a_0}{2} + \sum_{n = 1}^{N} \left [ a_n cos(nwt) + b_n sin(nwt) \right ]$$
+![](https://github.com/zommiommy/FourierSeriesApproximation/blob/master/fourierSeries.PNG?raw=true)
 
 or in the form of
-$$ f(t) = \sum_{n = 1}^{N} c_n sin(nwt + \phi_n)$$
+![](https://github.com/zommiommy/FourierSeriesApproximation/blob/master/sinSeries.PNG?raw=true)
 
 ## Time series to approximate
 
