@@ -14,6 +14,7 @@ this function will get the coefficent $a_n$ and $b_n$ to approximate a function 
 ![](https://github.com/zommiommy/FourierSeriesApproximation/blob/master/fourierSeries.PNG?raw=true)
 
 or in the form of
+
 ![](https://github.com/zommiommy/FourierSeriesApproximation/blob/master/sinSeries.PNG?raw=true)
 
 ## Time series to approximate
